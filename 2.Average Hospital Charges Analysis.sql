@@ -1,0 +1,1 @@
+SELECT AVG(charges) FROM hospitalization_details;
